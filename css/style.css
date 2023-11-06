@@ -16,13 +16,14 @@
   font-weight: 700;
   line-height: 1.16;
   letter-spacing: 0.03em;
+  color: #2e2f42;
 }
 .logo span {
   color: #4d5ae5;
 }
 
 .ul_link,
-.nav_list {
+.menu_list {
   list-style-type: none;
 }
 .ul_link .link,
@@ -34,14 +35,17 @@
   font-weight: 400;
   font-style: normal;
 }
+.menu_list .link:hover,
 .ul_link .link:hover {
   color: #4d5ae5;
 }
 
+.menu_list .link:focus,
 .ul_link .link:focus {
   color: #4d5ae5;
 }
-.ul_link .link:active {
+.ul_link .link:active,
+.menu_list .link:active {
   text-decoration: underline;
 }
 .main_title {
