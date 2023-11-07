@@ -96,12 +96,15 @@
   line-height: 1.33;
   font-weight: 500;
   letter-spacing: 0.02em;
+  text-align: center;
 }
+
 .header_section {
   visibility: hidden;
   line-height: 1.2;
   font-weight: 500;
   letter-spacing: 0.02em;
+  text-align: center;
 }
 .studio {
   color: #f4f4fd;
