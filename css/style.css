@@ -37,6 +37,7 @@
 .ul_link .link {
   font-weight: 400;
   font-style: normal;
+  color: #434455;
 }
 .menu_list .link:hover,
 .ul_link .link:hover {
@@ -112,6 +113,10 @@
   text-align: center;
   text-transform: capitalize;
 }
+.link_team {
+  background-color: #ffffff;
+}
+
 .footer_style .studio {
   color: #f4f4fd;
 }
